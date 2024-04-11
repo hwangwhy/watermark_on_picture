@@ -17,7 +17,7 @@ To add a watermark to your images, create a watermark png file and place all of 
 ```python
 python watermarker.py input_dir output_dir watermark.png
 ```
-Replace the input_dir with the folder of the photos, output_dir with the folder to store the modified folders, and watermark.png with your watermark.
+Create and replace the input_dir with the folder of the photos, output_dir with the folder to store the modified folders, and watermark.png with your watermark.
 
 These folders and picture need to be on the source code folder.
 ## Contributing
