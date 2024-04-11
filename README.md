@@ -8,6 +8,8 @@ A simple way to add a watermark in to your picture
 Clone the project and install the dependencies.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
+Using the bash below to install Pillow that help the proram run correctly
+
 ```bash
  pip install pillow
 ```
