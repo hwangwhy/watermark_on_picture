@@ -15,7 +15,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 ## Usage
 To add a watermark to your images, create a watermark png file and place all of your photos in a folder. Then call watermarker.py as such:
 ```python
-python watermarker.py input_dir output_dir watermark.png
+python watermark.py input_dir output_dir watermark.png
 ```
 Create and replace the input_dir with the folder of the photos, output_dir with the folder to store the modified folders, and watermark.png with your watermark.
 
